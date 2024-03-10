@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51189682012",
+    "firebase_url": "https://controldeparametros-1d562-default-rtdb.firebaseio.com",
+    "project_id": "controldeparametros-1d562",
+    "storage_bucket": "controldeparametros-1d562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51189682012:android:1f10c7d655202612137b99",
+        "android_client_info": {
+          "package_name": "com.example.controldeparametros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51189682012-3sjh0l5g87t83q4d0a14gaedarjpq5ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controldeparametros",
+            "certificate_hash": "3d9ae348ddff2584c0e545054d673b84df722845"
+          }
+        },
+        {
+          "client_id": "51189682012-pfo3vaajth5jmo8sgrr709goc41nmsus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1Z_Al2HTbzKnTmsWnuOkXkqEBkOcEjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51189682012-pfo3vaajth5jmo8sgrr709goc41nmsus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
